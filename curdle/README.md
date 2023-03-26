@@ -24,10 +24,10 @@ This project will make use of:
 # Demos
 
 ### Winner
-![](curdle/demos/winner.gif)
+![](demos/winner.gif)
 
 ### Loser
-![](curdle/demos/loser.gif)
+![](demos/loser.gif)
 
 ### Error Handling
-![](curdle/demos/error-handling.gif)
+![](demos/error-handling.gif)
