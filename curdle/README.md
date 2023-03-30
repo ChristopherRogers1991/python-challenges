@@ -8,6 +8,10 @@ that are not in the correct location, but are in the final word, are shown in or
 player continues guessing until they guess the correct word (winning the game) or run out of
 guesses (losing the game).
 
+If you would like help working through this project, or learning Python/programming in general:
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
+
 # Python Topics
 
 If you are new to Python, it is recommended that you start with the lights-out project.
@@ -31,3 +35,10 @@ This project will make use of:
 
 ### Error Handling
 ![](demos/error-handling.gif)
+
+# Support Development
+
+If you appreciate this content, and would like to support its development, consider
+donating via BuyMeACoffee:
+
+<a href="https://www.buymeacoffee.com/crogers" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

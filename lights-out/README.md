@@ -4,6 +4,10 @@ Lights out is a game in which the player attemtps to turn off all lights in a gr
 that when any light is toggled, the lights above, below, and beside the target light are also toggled.
 The game ends when all lights in the board are off.
 
+If you would like help working through this project, or learning Python/programming in general:
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
+
 # Python Concepts
 
 The concepts below are explained in the `main.py` file, so you do not need to
@@ -45,3 +49,10 @@ on Ubuntu (or a similar, Debian based Linux distro), try running `sudo apt insta
 Note that while the gui works, I am not a tkinter expert, and I may be doing stupid things in the code. It isn't
 necessarily the best code to reference to make your own gui, and is provided simply to make the game a little more
 fun to play (vs playing on the text version).
+
+# Support Development
+
+If you appreciate this content, and would like to support its development, consider
+donating via BuyMeACoffee:
+
+<a href="https://www.buymeacoffee.com/crogers" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

@@ -12,6 +12,10 @@ you could use a terminal via
 install [Git](https://git-scm.com/download/win) and use the terminal that it provides, or
 find another terminal that supports readline.
 
+If you would like help working through this project, or learning Python/programming in general:
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
+
 # Python Concepts
 
 If you are new to Python/programming, it is recommended that you start with the
@@ -35,3 +39,10 @@ and [argv](https://docs.python.org/3/library/argparse.html#module-argparse)
 ### Random
 
 ![](demos/random-lowres.gif)
+
+# Support Development
+
+If you appreciate this content, and would like to support its development, consider
+donating via BuyMeACoffee:
+
+<a href="https://www.buymeacoffee.com/crogers" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
