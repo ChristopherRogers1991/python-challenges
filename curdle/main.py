@@ -17,7 +17,7 @@ re-distribution.
 This project will walk you through creating a game called "Curdle", a simple
 command-line clone of Wordle. To complete this project, you will need some
 basic understanding of Python concepts, such as variables, classes, and methods.
-If you have not already completed the lights-out project, you should consider
+If you have not already completed the lights_out project, you should consider
 completing that first. At the very least, if you are not already somewhat familiar
 with Python, you should read through the documentation in that project.
 

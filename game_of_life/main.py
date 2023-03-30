@@ -15,8 +15,8 @@ re-distribution.
 ##############
 
 If you are new to programming and/or Python, it is recommended that you start with
-the lights-out project. This project will assume you've worked through at least
-lights-out, and will start to point you to official Python documentation for examples
+the lights_out project. This project will assume you've worked through at least
+lights_out, and will start to point you to official Python documentation for examples
 and explanations. The expectation is that you will begin to familiarize yourself
 with the official docs, and become comfortable reading them to learn about new
 functions and classes. For now, it is recommended that you stick to just the information
@@ -82,7 +82,7 @@ def clear_lines(num_lines):
 #
 # fifty_fifty
 #
-# See the explanation of the fifty_fifty in the lights-out project. This will
+# See the explanation of the fifty_fifty in the lights_out project. This will
 # need to work exactly the same way.
 def fifty_fifty():
     pass
@@ -95,7 +95,7 @@ def fifty_fifty():
 # fifty_fifty() function to determine if a particular cell is alive or dead.
 #
 # Note, this should work very similarly to the Board.__init__ from the
-# lights-out project.
+# lights_out project.
 #
 # The board should be random, but it should look something like:
 #

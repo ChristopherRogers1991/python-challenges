@@ -413,9 +413,11 @@ class Board():
     #
     #  I would recommend that you test your code at this point. You can do so in Pycharm
     #  by opening the `Python console` at the bottom of the window, and running the
-    #  following code:
+    #  following code (the code assumes you have the top-level python-challenges directory as the
+    #  root of your project - if you are working directly in the lights_out directory, substitute
+    #  `from lights_out.main...` with `from main...`):
     #
-    #      >>> from main import Board
+    #      >>> from lights_out.main import Board
     #      >>> board = Board(10)
     #      >>> print(str(board))
     #          0 1 2 3 4 5 6 7 8 9

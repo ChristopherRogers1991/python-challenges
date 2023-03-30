@@ -21,7 +21,7 @@ for Windows, use the terminal that comes with Git):
 In each of the projects is a README.md file that will describe the project
 succinctly, and show some sample runs of the program. It is probably best to view these on
 GitHub, since it will render the text, iamges, and links nicely. For example, see
-the [lights-out readme](lights-out/README.md).
+the [lights_out readme](lights_out/README.md).
 
 In addition to a `README.md`, each project includes a `main.py` file, which contains template
 code, and descriptions of all the steps necessary to complete the project. Python concepts are
@@ -40,7 +40,7 @@ adapt the information for your editor.
 
 # Where should I start?
 
-I would recommend that you start with the [lights-out](lights-out) project.
+I would recommend that you start with the [lights_out](lights_out) project.
 
 # Why does this exist?
 
