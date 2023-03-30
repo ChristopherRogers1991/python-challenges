@@ -3,21 +3,22 @@
 This repository contains a collection of template projects to help new Python programmers
 learn the basics of the language, as well as learning some general programming concepts.
 
-As a companion to this repo, I would recommend
+As a companion to this repo, I recommend
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html).
-This is a free, open, online book. I am not affiliated with it in any way, but simply recommend it
-because it covers many important concepts, and can be accessed freely - any teacher, mentor, or
+This is a free, open, online book. I am not affiliated with it in any way, but recommend it
+because it covers many important concepts, and can be accessed freely. Any teacher, mentor, or
 student you work with can access the same book, without having to buy anything.
 
 # How To Use This Repo
 
 Each subfolder in the repo contains a self-contained project. The easiest way
-to work with these will be to install [git](https://git-scm.com/), and clone this repo
-by running the following in your terminal:
+to work with these is to install [git](https://git-scm.com/), and clone this repo
+by running the following in your terminal (for Mac or Linux, use the default terminal application -
+for Windows, use the terminal that comes with Git):
 
     git clone https://github.com/ChristopherRogers1991/python-challenges.git
 
-In each of the projects is a README.md file that will describe the project fairly
+In each of the projects is a README.md file that will describe the project
 succinctly, and show some sample runs of the program. It is probably best to view these on
 GitHub, since it will render the text, iamges, and links nicely. For example, see
 the [lights-out readme](lights-out/README.md).
@@ -32,6 +33,11 @@ concept, for something a little more "magic" (Python has many advanced features 
 a wonderful language, but I would recommend that you use them only when you've learned the
 basics well).
 
+If you do not already have an IDE/text editor that you are familiar with, I would recommend
+[PyCharm](https://www.jetbrains.com/pycharm/). You will see references to PyCharm throughout the
+documentation in the project. If you are using another editor, it should be relatively trivial to
+adapt the information for your editor.
+
 # Where should I start?
 
 I would recommend that you start with the [lights-out](lights-out) project.
@@ -40,8 +46,7 @@ I would recommend that you start with the [lights-out](lights-out) project.
 
 When learning to program, one of the most important things you can do is write code. Lots of it.
 Every day. The more practice you get, the better you will be. I created these projects to give
-some of my students some practice problems, and have decided to open them up to anyone they
-might benefit.
+some of my students practice problems, and have decided to open them up to everyone.
 
 # Need Help?
 

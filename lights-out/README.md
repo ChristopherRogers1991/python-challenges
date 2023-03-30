@@ -12,8 +12,7 @@ If you would like help working through this project, or learning Python/programm
 
 The concepts below are explained in the `main.py` file, so you do not need to
 read the information at the following links. They are provided simply for your
-reference, in case you would like to read about them in more depth, or view
-more examples beyond what is provided here.
+reference.
 
 * [variables](https://docs.python.org/3/tutorial/introduction.html)
 * [classes](https://docs.python.org/3/tutorial/classes.html)
@@ -48,7 +47,7 @@ on Ubuntu (or a similar, Debian based Linux distro), try running `sudo apt insta
 
 Note that while the gui works, I am not a tkinter expert, and I may be doing stupid things in the code. It isn't
 necessarily the best code to reference to make your own gui, and is provided simply to make the game a little more
-fun to play (vs playing on the text version).
+fun to play (vs playing the text version).
 
 # Support Development
 

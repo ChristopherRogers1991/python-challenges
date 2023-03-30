@@ -14,8 +14,11 @@ If you would like help working through this project, or learning Python/programm
 
 # Python Topics
 
-If you are new to Python, it is recommended that you start with the lights-out project.
-This project will make use of:
+If you are new to Python/programming, it is recommended that you start with the
+[lights-out](../lights-out) project. In addition to topics covered in that project (such
+as lists, functoins, etc), this will also cover the topics listed below. Note that the links
+are provided only for reference - it is not necessary that you read/understand them before
+proceeding.
 
 * [sets](https://docs.python.org/3/library/stdtypes.html#set)
 * [time](https://docs.python.org/3/library/time.html#module-time)

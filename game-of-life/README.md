@@ -6,7 +6,7 @@ can read more about it on [Wikipedia](https://en.wikipedia.org/wiki/Conway's_Gam
 
 This project will walk you through creating your own, text based version of the simulation.
 Note that for the effect to work, you will need a terminal/console that supports readline.
-If you are on a Mac of Linux machine, the default system terminal should work. On Windows,
+If you are on a Mac or Linux machine, the default system terminal should work. On Windows,
 you could use a terminal via
 [WSL (Windows subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install),
 install [Git](https://git-scm.com/download/win) and use the terminal that it provides, or
@@ -20,7 +20,9 @@ If you would like help working through this project, or learning Python/programm
 
 If you are new to Python/programming, it is recommended that you start with the
 [lights-out](../lights-out) project. In addition to topics covered in that project (such
-as lists, functoins, etc), this will also cover:
+as lists, functoins, etc), this will also cover the topics listed below. Note that the links
+are provided only for reference - it is not necessary that you read/understand them before
+proceeding.
 
 * [Commandline Arguments via ArgumentParser](https://docs.python.org/3/library/argparse.html#module-argparse)
 and [argv](https://docs.python.org/3/library/argparse.html#module-argparse)
