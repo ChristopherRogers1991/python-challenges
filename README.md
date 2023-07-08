@@ -51,9 +51,7 @@ some of my students practice problems, and have decided to open them up to every
 # Need Help?
 
 If you would like some 1:1 help working through these projects, or learning programming/Python
-in general, feel free to reach out to me on Codementor:
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
+in general, feel free to reach out to me on [Codementor](https://www.codementor.io/@crogers).
 
 # Support Development
 
