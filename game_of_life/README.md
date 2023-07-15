@@ -12,9 +12,9 @@ you could use a terminal via
 install [Git](https://git-scm.com/download/win) and use the terminal that it provides, or
 find another terminal that supports readline.
 
-If you would like help working through this project, or learning Python/programming in general:
+If you would like help working through this project, or learning Python/programming in general,
+feel free to reach out to me on [Codementor](https://www.codementor.io/@crogers).
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
 
 # Python Concepts
 

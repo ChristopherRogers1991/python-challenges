@@ -4,9 +4,8 @@ Lights out is a game in which the player attemtps to turn off all lights in a gr
 that when any light is toggled, the lights above, below, and beside the target light are also toggled.
 The game ends when all lights in the board are off.
 
-If you would like help working through this project, or learning Python/programming in general:
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
+If you would like help working through this project, or learning Python/programming in general, feel
+free to reach out to me on [Codementor](https://www.codementor.io/@crogers).
 
 # Python Concepts
 

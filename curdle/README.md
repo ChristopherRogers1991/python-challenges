@@ -8,9 +8,9 @@ that are not in the correct location, but are in the final word, are shown in or
 player continues guessing until they guess the correct word (winning the game) or run out of
 guesses (losing the game).
 
-If you would like help working through this project, or learning Python/programming in general:
+If you would like help working through this project, or learning Python/programming in general,
+feel free to reach out to me on [Codementor](https://www.codementor.io/@crogers).
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/crogers/find-me-on-cm-b.svg)](https://www.codementor.io/@crogers?refer=badge)
 
 # Python Topics
 
