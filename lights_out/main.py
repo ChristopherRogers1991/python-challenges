@@ -211,13 +211,63 @@ from random import random
 
 
 #  Use the `random` function imported above. A call to `random`
-#  returns a value [0, 1), e.g.
+#  returns a value [0, 1). That is, it will generate a value
+# from 0 inclusive, to 1 excliseve (greater-than-or-equal to 0,
+# but always less than 1). e.g.
 #
 #  >>> print(random())
 #  0.9682691615564194
 #
 #  >>> print(random())
 #  0.2675536986063396
+#
+# Note that all values in that range are equally likely, so 0.0
+# is just as likely as 0.18472, which is just as likely as
+# 0.74981839284, which is just as likely as 0.9 (it is a
+# "uniform distribution"). This fact can be leveraged to make
+# something happen a certain percentage of the time, e.g.
+#
+#  >>> print(random() < 0.3))
+#
+# That should print `True` 30% of the time, and `False` 70% of
+# the time, because the value of `random()` will be less than
+# `0.3` 30% of the time it runs.
+#
+# To make this more clear, a simplified example may help:
+#
+# Assume that rather than any value in the range [0, 1), the
+# random function must return one of the values in this set:
+#
+# {0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9}
+#
+# There are 10 values there. Our simplified random will still
+# have a uniform distribution, so all values are equally likely.
+# This means each of the values will be chosen about 1 out of
+# every 10 calls to our random function. So again, if we had:
+#
+#  >>> print(random() < 0.3))
+#
+# That should print `True` 30% of the time, because there are
+# three values less than `0.3`, and there are seven values that
+# are greater-than-or-equal to `0.3`.
+#
+# Even though there are many more values to be chosen from in
+# the real `random` function, the math works out exactly the
+# the same.
+#
+# You can of course change the values to cause something to happen
+# a different percentage of the time, e.g.
+#
+#  >>> if random() < 0.65:
+#          x = 5
+#      else:
+#          x = 10
+#
+# This will cause x to be set to five 65% of the time, and set to
+# ten the remaining 45% of the time.
+#
+# With that in mind, define the fifty_fifty function below.
+
 
 def fifty_fifty():
     """
