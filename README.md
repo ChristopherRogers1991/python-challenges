@@ -12,12 +12,16 @@ student you work with can access the same book, without having to buy anything.
 # How To Use This Repo
 
 Each subfolder in the repo contains a self-contained project. The easiest way
-to work with these is to install [git](https://git-scm.com/), and clone this repo
+to work with these is to [download a zip](https://github.com/ChristopherRogers1991/python-challenges/archive/refs/heads/main.zip)
+of the whole project.
+
+Alternatively, you can install [git](https://git-scm.com/), and clone this repo
 by running the following in your terminal (for Mac or Linux, use the default terminal application -
 for Windows, use the terminal that comes with Git):
 
     git clone https://github.com/ChristopherRogers1991/python-challenges.git
 
+Once you have either downloaded and extracted the zip, or cloned the repository:
 In each of the projects is a README.md file that will describe the project
 succinctly, and show some sample runs of the program. It is probably best to view these on
 GitHub, since it will render the text, iamges, and links nicely. For example, see
