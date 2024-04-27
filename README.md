@@ -24,7 +24,7 @@ for Windows, use the terminal that comes with Git):
 Once you have either downloaded and extracted the zip, or cloned the repository:
 In each of the projects is a README.md file that will describe the project
 succinctly, and show some sample runs of the program. It is probably best to view these on
-GitHub, since it will render the text, iamges, and links nicely. For example, see
+GitHub, since it will render the text, images, and links nicely. For example, see
 the [lights_out readme](lights_out/README.md).
 
 In addition to a `README.md`, each project includes a `main.py` file, which contains template
