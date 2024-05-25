@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter.messagebox import askyesno
-from tkinter.constants import S, YES
 from typing import Callable, List
-from answer import Light, Board
+from main import Board
+
 
 class LightButton(tk.Button):
     def __init__(self, master, board: Board, row: int, column: int, handle_click: Callable) -> None:
@@ -11,7 +11,8 @@ class LightButton(tk.Button):
         self.column = column
         self.hande_click = handle_click
         self.light = board.lights[row][column]
-        super().__init__(master=master, command=self.on_click, height=5, width=10, activebackground=self.get_background())
+        super().__init__(
+            master=master, command=self.on_click, height=5, width=10, activebackground=self.get_background())
         self.draw()
 
     def get_background(self):
@@ -25,6 +26,7 @@ class LightButton(tk.Button):
     def on_click(self):
         self.board.toggle_light(self.row, self.column)
         self.hande_click()
+
 
 class LightBoard(tk.Frame):
     def __init__(self, master, board: Board) -> None:
